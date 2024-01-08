@@ -7,6 +7,8 @@ tags: [Web Development,Docker,load testing,Automation, Python , C# , .NET ,JavaS
 
 # Welcome to Norman Fwamba's Blog
 
+![Alt Text](https://media.licdn.com/dms/image/D4D03AQGgjY2UhSQBaA/profile-displayphoto-shrink_800_800/0/1670510662827?e=1709769600&v=beta&t=Gs1Gqsc6OmFe_4GpF3fG-hESM2xX5t4S2_w7DyjHCSA){:width="400px"}
+
 Hey there! 👋 Welcome to my blogging space where you're about to embark on an exciting journey of exploration and learning. I'm Norman Fwamba, your guide in the world of technology and beyond.
 
 ## What to Expect
@@ -42,5 +44,9 @@ Have suggestions, feedback, or specific topics you'd like us to cover? Don't hes
 
 - 📧 Email: [normankhisa106@gmail.com](mailto:normankhisa106@gmail.com)
 - 🐦 Twitter: [@normansmanza](https://twitter.com/normansmanza)
+- 📘 Facebook: [norman.khisa](https://www.facebook.com/norman.khisa)
+- 📸 Instagram: [norman_smanza](https://www.instagram.com/norman_smanza/)
+- 📱 WhatsApp: [+254742201184](https://wa.me/+254742201184)
+
 
 Thank you for stopping by, and let the learning adventure begin! 🚀
