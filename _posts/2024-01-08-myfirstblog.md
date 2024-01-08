@@ -19,7 +19,7 @@ Here at Norman Fwamba's Blog, we're passionate about sharing knowledge and insig
 - **How-to Guides:** Learn practical tips and step-by-step guides to enhance your skills and solve common problems.
 - **General Knowledge:** Dive into a variety of topics beyond technology to broaden your understanding of the world.
 
-## Connect with Us
+## Connect with Me
 
 Feel free to engage with the content and join the community:
 
@@ -44,5 +44,3 @@ Have suggestions, feedback, or specific topics you'd like us to cover? Don't hes
 - 🐦 Twitter: [@normansmanza](https://twitter.com/normansmanza)
 
 Thank you for stopping by, and let the learning adventure begin! 🚀
-
-ARSENAL THE BEST TEAM IN THE WORLD
