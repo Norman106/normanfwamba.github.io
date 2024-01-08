@@ -1,8 +1,8 @@
 ---
 title: MY FIRST BLOG
-date: 2022-05-23 12:00:00 -500
-categories: [homelab, hardware]
-tags: [servers,dell, hp, supermicro] # TAG names should always be lowercase
+categories: [ Python , C# , .NET , JavaScript , SQL , Angular , PHP Talks about , devops.]
+tags: [Web Development,Docker,load testing,Automation, Python , C# , .NET ,JavaScript , SQL , Angular , PHP Talks about,devops,  dotnet #angular
+] # TAG names should always be lowercase
 ---
 
 # Welcome to Norman Fwamba's Blog
@@ -39,8 +39,8 @@ Ready to begin your learning journey? Check out some of our popular posts to get
 
 Have suggestions, feedback, or specific topics you'd like us to cover? Don't hesitate to reach out:
 
-- 📧 Email: [norman@example.com](mailto:norman@example.com)
-- 🐦 Twitter: [@NormanFwamba](https://twitter.com/NormanFwamba)
+- 📧 Email: [normankhisa106@gmail.com](mailto:normankhisa106@gmail.com)
+- 🐦 Twitter: [@normansmanza](https://twitter.com/normansmanza)
 
 Thank you for stopping by, and let the learning adventure begin! 🚀
 

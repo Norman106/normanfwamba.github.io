@@ -1,3 +1,10 @@
+---
+title: LOAD TESTING RESEARCH
+categories: [ C# , .NET , JavaScript  , devops.]
+tags: [Web Development,Docker,load testing,Automation , C# , .NET ,JavaScript  ,  dotnet #angular
+] # TAG names should always be lowercase
+---
+
 # Load Balancing And Testing Research
 
 Load testing is an essential part of the software development process to identify performance bottlenecks, improve scalability, and ensure that applications can handle the expected traffic. Traditional load testing tools can be difficult to use, require a significant amount of setup time, and can be expensive to license. This can create a barrier for developers and DevOps teams to incorporate load testing into their workflow, which can lead to performance issues going unnoticed until they are encountered in production.
@@ -47,7 +54,8 @@ To achieve this, we can leverage the capabilities of K6 and other load testing t
 It's worth noting that the approach isn't exclusive to K6. Other load testing tools like NBomber can also be utilized to attain comparable outcomes. This script serves as a clear demonstration of how we can employ K6, or similar tools, to effectively analyze the performance of our API endpoints under demanding conditions.
 
 Here is the K6 script:  
-```import http from "k6/http";
+```javascript
+import http from "k6/http";
 import { sleep } from "k6";
 import { htmlReport } from "https://raw.githubusercontent.com/benc-uk/k6-reporter/main/dist/bundle.js";
 import faker from "https://cdnjs.cloudflare.com/ajax/libs/Faker/3.1.0/faker.min.js";
@@ -258,7 +266,7 @@ export function handleSummary(data) {
 ```
 
 Also contains a config file where it fetches the defaults of the program before it runs.They defaults can be adjusted to suit the users demands.
-```
+```javascript
 export default {
   endpoints: {
     authServerUrl: "https://cisapisecurity.innova.co.ke/core",
@@ -292,7 +300,7 @@ The script uses K6 to simulate many users interacting with the UNIT TRUST API. I
 To try it out, save the script as a .js file and run it with "k6 run." You can set how long it runs in the options.
 
 Bash
-```
+```Bash
 k6 run regtojoin.js --summary-export=resultforregtojoin91.json --quiet > k6logfile 2>&1
 ```
 
@@ -347,7 +355,7 @@ The script relies on some dependencies that must be installed before you can run
 * papaparse 
 To install these dependencies, you can run the following command in your terminal:
 
-```
+```Bash
 npm install k6/http
 npm install k6-reporter
 npm install faker
@@ -361,7 +369,7 @@ This command will install all the required dependencies globally on your machine
 To run the script, open your terminal, navigate to the folder containing the script file, and run the following command:
 
 
-```
+```Bash
 k6 run script.js
 ```
 This command will execute the script and start load testing.
@@ -370,7 +378,7 @@ NOTE: Command to Generate Logs and Reports (JSON and HTML):
 
 If you wish to generate comprehensive logs and reports, including both JSON and HTML formats, use the following command:
 Bash
-```
+```Bash
 k6 run regtojoin.js --summary-export=resultforregtojoin91.json --quiet > k6logfile 2>&1
 ```
 This command executes the script, captures logs, and produces both JSON and HTML reports. The --summary-export flag specifies the JSON report file, while the --out flag with json=report.json and html=report.html generates both JSON and HTML reports. The --quiet flag ensures that the console output is minimized, and the > k6logfile 2>&1 part captures logs and saves them to a file named k6logfile.
