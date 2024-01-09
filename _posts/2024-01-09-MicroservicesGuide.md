@@ -2,7 +2,7 @@
 title: Microservices Roadmap - A Comprehensive Guide to Building Modern Architectures
 image: https://imgur.com/KHcugC3.jpg
 tags: [microservices,architecture,databases,messaging,monitoring,languages,CI/CD,security,cloud,containerization]
-categories: [Development,Architecture,DevOps]
+categories: [Development,Architecture]
 ---
 
 # Microservices Roadmap: A Comprehensive Guide to Building Modern Architectures
