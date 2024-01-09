@@ -4,7 +4,7 @@ categories: [ C# , .NET , JavaScript  , devops.]
 tags: [Web Development,Docker,load testing,Automation , C# , .NET ,JavaScript  ,  dotnet #angular
 ] # TAG names should always be lowercase
 ---
-
+![Alt Text](https://i.imgur.com/Mh0q0nX.jpg){:width="900px"height="200px"}
 # Load Balancing And Testing Research
 
 Load testing is an essential part of the software development process to identify performance bottlenecks, improve scalability, and ensure that applications can handle the expected traffic. Traditional load testing tools can be difficult to use, require a significant amount of setup time, and can be expensive to license. This can create a barrier for developers and DevOps teams to incorporate load testing into their workflow, which can lead to performance issues going unnoticed until they are encountered in production.
