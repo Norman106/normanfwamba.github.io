@@ -1,6 +1,7 @@
 Centralize Your Notes with a Static Site Generator
 ==================================================
-![Alt Text](https://i.imgur.com/dYbwnrp.jpg){:width="900px"height="200px"}
+
+![Alt Text](https://i.imgur.com/dYbwnrp.jpg)
 
 
 Introduction
