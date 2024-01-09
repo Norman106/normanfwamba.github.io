@@ -1,8 +1,9 @@
 ---
 title: MY FIRST BLOG
-categories: [ Python , C# , .NET , JavaScript , SQL , Angular , PHP Talks about , devops.]
-tags: [Web Development,Docker,load testing,Automation, Python , C# , .NET ,JavaScript , SQL , Angular , PHP Talks about,devops,  dotnet #angular
+categories: [ Documentation]
+tags: [Web Development,Docker,load testing,Automation, Python , C# , .NET ,JavaScript , SQL , Angular , PHP Talks about,devops,  dotnet ,Tech stuff in general #angular
 ] # TAG names should always be lowercase
+image: https://i.imgur.com/1PpLsI9.jpg
 ---
 
 # Welcome to Norman Fwamba's Blog

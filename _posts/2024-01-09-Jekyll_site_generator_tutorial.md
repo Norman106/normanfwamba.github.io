@@ -1,7 +1,14 @@
+---
+title: Centralize Your Notes with a Static Site Generator
+categories: [ devops.]
+tags: [documentation] # TAG names should always be lowercase
+image: https://i.imgur.com/P1YxIa5.jpg
+---
+
 Centralize Your Notes with a Static Site Generator
 ==================================================
 
-![Alt Text](https://i.imgur.com/dYbwnrp.jpg)
+<!-- ![Alt Text](https://i.imgur.com/dYbwnrp.jpg) -->
 
 
 Introduction
