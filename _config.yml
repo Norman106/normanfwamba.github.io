@@ -17,10 +17,10 @@ timezone: Africa/Nairobi
 
 title: Norman Fwamba # the main title
 
-tagline: Software Developer/DevOPS Engineer # it will display as the sub-title
+tagline: Software Engineer at Innova Limited | DevOps Engineer | Python | C# | .NET | JavaScript | SQL | Angular | PHP Talks about #devops, #django, #dotnet, #angular # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
- Software Engineer at Innova Limited | DevOps Engineer | Python | C# | .NET | JavaScript | SQL | Angular | PHP Talks about #devops, #django, #dotnet, #angular
+ 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
