@@ -6,6 +6,10 @@ layout: default
 title: About
 ---
 
+> Skills: Python, C#, K6, JavaScript, PHP, SQL, .NET, HTML, Docker, Angular, NBomber
+{: .prompt-tip }
+
+
 ![Norman Fwamba](https://media.licdn.com/dms/image/D4D03AQFuLQQle_0feg/profile-displayphoto-shrink_200_200/0/1704792968523?e=1710374400&v=beta&t=Wn2CeaunJNJW4pzeoVcLi9e58CD7JSRqP0Eo86DD-vk)
 
 
@@ -64,5 +68,3 @@ Feel free to reach out, and let's bring your tech aspirations to life!
 
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
