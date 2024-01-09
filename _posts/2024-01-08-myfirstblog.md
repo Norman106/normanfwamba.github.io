@@ -4,10 +4,10 @@ categories: [ Python , C# , .NET , JavaScript , SQL , Angular , PHP Talks about 
 tags: [Web Development,Docker,load testing,Automation, Python , C# , .NET ,JavaScript , SQL , Angular , PHP Talks about,devops,  dotnet #angular
 ] # TAG names should always be lowercase
 ---
-![Alt Text](https://imgur.com/mrWXFk2.jpg){:width="600px"height="400px"}
+
 # Welcome to Norman Fwamba's Blog
 
-![Alt Text](https://media.licdn.com/dms/image/D4D03AQGgjY2UhSQBaA/profile-displayphoto-shrink_800_800/0/1670510662827?e=1709769600&v=beta&t=Gs1Gqsc6OmFe_4GpF3fG-hESM2xX5t4S2_w7DyjHCSA){:width="400px"}
+![Alt Text](https://media.licdn.com/dms/image/D4D03AQGgjY2UhSQBaA/profile-displayphoto-shrink_800_800/0/1670510662827?e=1709769600&v=beta&t=Gs1Gqsc6OmFe_4GpF3fG-hESM2xX5t4S2_w7DyjHCSA){:width="900px"height="400px"}
 
 Hey there! 👋 Welcome to my blogging space where you're about to embark on an exciting journey of exploration and learning. I'm Norman Fwamba, your guide in the world of technology and beyond.
 
