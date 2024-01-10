@@ -13,18 +13,48 @@ image: https://imgur.com/c0pJfhO.jpg
 ### Event-Driven Execution 
 - Functions are triggered by events such as HTTP requests, database changes, file uploads, or scheduled intervals.
 - Each function performs a specific task and runs independently.
+ **Example:**
+  ```javascript
+  // AWS Lambda function triggered by an HTTP request
+  exports.handler = async (event) => {
+      // Function logic to handle the HTTP request
+      // ...
+      return {
+          statusCode: 200,
+          body: JSON.stringify('Function executed successfully'),
+      };
+  };
+
 
 ### Stateless Execution 
 - Serverless functions are stateless, meaning they don't store information between invocations.
 - Any required state or data is typically managed by external services.
 
+ **Example:**
+``` javascript
+// AWS Lambda function without maintaining state
+exports.handler = async (event) => {
+    // Stateless function logic
+    // ...
+};
+```
+
+
 ### Automatic Scaling 
 - Serverless platforms automatically scale functions based on demand.
 - Functions can handle varying workloads without manual intervention.
 
+**Example:**
+
+A sudden increase in HTTP requests triggers automatic scaling of serverless functions to handle the load.
+
 ### Pay-as-You-Go Pricing 
 - Billing is based on the actual execution time and resources consumed by functions.
 - Users are charged for the exact compute resources used during function execution.
+
+**Example:**
+
+If a function takes 100 milliseconds to execute and consumes 10 MB of memory, the user is billed for these specific resources.
 
 ## Advantages 
 
