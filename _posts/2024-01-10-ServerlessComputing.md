@@ -13,7 +13,9 @@ image: https://imgur.com/c0pJfhO.jpg
 ### Event-Driven Execution 
 - Functions are triggered by events such as HTTP requests, database changes, file uploads, or scheduled intervals.
 - Each function performs a specific task and runs independently.
+
  **Example:**
+
   ```javascript
   // AWS Lambda function triggered by an HTTP request
   exports.handler = async (event) => {
@@ -24,6 +26,7 @@ image: https://imgur.com/c0pJfhO.jpg
           body: JSON.stringify('Function executed successfully'),
       };
   };
+  ```
 
 
 ### Stateless Execution 
