@@ -1,6 +1,6 @@
 ---
 title: Understanding Serverless Computing 🚆
-image: https://www.pexels.com/photo/man-coding-on-computers-sitting-at-desk-16129703/
+image: https://imgur.com/c0pJfhO.jpg
 
 ---
 
