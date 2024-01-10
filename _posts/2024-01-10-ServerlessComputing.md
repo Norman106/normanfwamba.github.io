@@ -1,9 +1,7 @@
 ---
 title: Understanding Serverless Computing 🚆
 image: https://i.imgur.com/9L6xguw.mp4
-categories : [ Cloud Computing, Serverless,startups,tech, entrepreneurship]
-tags: [ FaaS, AWS Lambda, Azure Functions]
- 
+
 ---
 
 # Understanding Serverless Computing 🚆
