@@ -58,3 +58,9 @@ categories: [Development,Architecture]
 ![Microservices Roadmap](https://imgur.com/KHcugC3.jpg)
 
 This microservices roadmap is crafted to guide you through the critical components of building a modern, scalable, and resilient architecture. Embrace these technologies judiciously to empower your microservices ecosystem for success in the dynamic landscape of modern application development.
+
+### Appreciation:
+
+[![normanf](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/normanf)
+
+Thank you for being a part of this journey. Your encouragement means the world and keeps the passion alive. Here's to more learning and growth together!

@@ -54,3 +54,10 @@ Conclusion
 Centralizing your notes and creating a web-based documentation site for your home lab doesn't have to be complicated or time-consuming. With a static site generator like Jekyll, you can quickly and easily create a good-looking, easy-to-maintain, and blazing fast site that meets all your requirements. Whether you choose to host it on GitHub Pages or in your own environment, the choice is yours. So why wait? Start organizing your notes and building your documentation site today!
 
 Made with [NORMAN FWAMBA](https://www.normanfwamba.netlify.app)
+
+### Appreciation:
+
+[![normanf](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/normanf)
+
+Thank you for being a part of this journey. Your encouragement means the world and keeps the passion alive. Here's to more learning and growth together!
+

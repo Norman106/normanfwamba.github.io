@@ -494,3 +494,10 @@ The script makes API calls to register investors and join them to a fund. If the
 
 In conclusion, automated testing is an essential part of the software development process, and it can help to improve the quality, reliability, and performance of software products. By following the steps outlined above, developers can ensure that their code is thoroughly tested and optimized for maximum efficiency and effectiveness.
 The provided code demonstrates a comprehensive load testing scenario for an investment platform's API. It uses the k6 load testing tool to simulate user interactions, make HTTP requests, and analyze the platform's performance under various scenarios. The code is structured with a focus on token management, payload generation, HTTP requests, and result reporting. By utilizing fake data and predefined scenarios, this load testing approach aids in identifying potential bottlenecks and performance issues within the investment platform's API.
+
+
+### Appreciation:
+
+[![normanf](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/normanf)
+
+Thank you for being a part of this journey. Your encouragement means the world and keeps the passion alive. Here's to more learning and growth together!

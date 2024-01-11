@@ -52,3 +52,8 @@ Have suggestions, feedback, or specific topics you'd like us to cover? Don't hes
 
 Thank you for stopping by, and let the learning adventure begin! 🚀
 
+### Appreciation:
+
+[![normanf](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/normanf)
+
+Thank you for being a part of this journey. Your encouragement means the world and keeps the passion alive. Here's to more learning and growth together!
