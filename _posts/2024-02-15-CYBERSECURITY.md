@@ -18,6 +18,18 @@ Cybersecurity is like having a digital security guard that protects our online s
 
 In the fast-paced world of FinTech, we face unique challenges when it comes to cybersecurity. Hackers and cybercriminals are always on the lookout for vulnerabilities they can exploit. Whether it's through phishing emails that try to trick us into giving away our passwords or sophisticated attacks that target our systems directly, the risks are real, and we need to be prepared to face them head-on.
 
+### Facing the Real Risks
+
+#### Phishing Attacks
+Phishing emails attempt to trick individuals into revealing sensitive information, posing a significant threat to our security.
+
+#### Data Breaches
+Unauthorized access to our systems could lead to devastating data breaches, eroding customer trust and damaging our reputation.
+
+#### Ransomware
+Ransomware can encrypt our data, disrupting operations and potentially causing irreparable harm.
+
+
 ## How We Protect Ourselves
 
 To stay safe and secure, we employ a variety of strategies:
