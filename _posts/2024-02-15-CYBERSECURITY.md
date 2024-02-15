@@ -8,6 +8,11 @@ image:
 
 Welcome to our deep dive into cybersecurity in the world of FinTech. In today's digital landscape, where financial transactions happen at the speed of light and sensitive information is stored online, cybersecurity isn't just important—it's absolutely essential. Let's explore what cybersecurity means for our FinTech operations and how we can protect ourselves and our customers' assets.
 
+### What is cybersecurity?
+
+Cybersecurity encompasses a set of practices, technologies, and processes designed to protect computer systems, networks, devices, and data from unauthorized access, attacks, damage, or theft. Its primary goal is to ensure the confidentiality, integrity, and availability of information in digital environments.
+
+In simpler terms, cybersecurity is like a digital defense mechanism that safeguards our digital assets, such as personal information, financial data, and intellectual property, from various threats like hackers, malware, viruses, and other cyberattacks.
 
 
 ## Why Cybersecurity Matters
