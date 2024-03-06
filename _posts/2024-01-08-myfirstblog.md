@@ -50,7 +50,7 @@ Have suggestions, feedback, or specific topics you'd like us to cover? Don't hes
 - 📱 WhatsApp: [+254742201184](https://wa.me/+254742201184)
 
 
-Thank you for stopping by, and let the learning adventure begin! 🚀
+Thank you for   stopping by, and let the learning adventure begin! 🚀
 
 ### Appreciation:
 
