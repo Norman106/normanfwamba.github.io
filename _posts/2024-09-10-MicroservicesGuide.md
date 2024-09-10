@@ -1,10 +1,8 @@
-
 ---
 title: A Practical Guide to Microservices Architecture
 image: https://imgur.com/KHcugC3.jpg
 tags: [microservices, architecture, databases, messaging, monitoring, programming, CI/CD, security, cloud, containers]
 categories: [Development, Architecture]
-
 ---
 
 
