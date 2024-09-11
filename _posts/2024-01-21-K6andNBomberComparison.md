@@ -1,6 +1,6 @@
 ---
 title: Comparative Analysis of K6 and NBomber - Unveiling the Strengths and Weaknesses
-image: https://pub-3626123a908346a7a8be8d9295f44e26.r2.dev/generations/c518ed1e-63c5-4c0e-ac91-848148adf7b8-0.png
+image: https://images.pexels.com/photos/4763075/pexels-photo-4763075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 
 ---
 # Comparative Analysis of K6 and NBomber: Unveiling the Strengths and Weaknesses
