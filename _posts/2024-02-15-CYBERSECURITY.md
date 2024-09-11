@@ -1,6 +1,6 @@
 ---
 title: Keeping Our Tech Space Safe
-image:
+image: https://images.pexels.com/photos/6214454/pexels-photo-6214454.jpeg
 
 ---
 
