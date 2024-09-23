@@ -20,6 +20,8 @@ Ideally, software and systems were designed from the start with the aim of elimi
 - Support compliance with data privacy and security regulations (e.g., PCI DSS, HIPAA, GDPR)
 - Provide qualitative and quantitative examples of current security posture and budget priorities for management
 
+![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE2dmtwd3FseTl0ZzI3MXFhb2p2OHJwMDR6OWEwbGdoZG51N3JzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ECWfWVzZpEiDWwdPET/giphy.gif)
+
 ## Penetration Testing: A Buyer's Guide
 
 ### How much access is given to pen testers?
