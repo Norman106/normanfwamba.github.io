@@ -1,9 +1,10 @@
 ---
 title: The Mistake Every Developer Makes (And No One Talks About)
 image: https://www.shutterstock.com/image-photo/angry-office-worker-sitting-desk-shouting-2120056355
-tags: [Programming ,Tutorial ,Productivity ]
+tags: [Programming, Tutorial, Productivity]
 categories: [Career]
 ---
+
 
 # The Silent Trap Every Developer Falls Into (And How to Escape It)
 
