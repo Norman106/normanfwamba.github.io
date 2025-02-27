@@ -1,5 +1,6 @@
 ---
-title:  Mastering CI/CD Pipelines, The Key to Rapid Software Delivery
+title: Mastering CI/CD Pipelines, The Key to Rapid Software Delivery
+date: 2024-02-12
 image: https://img.freepik.com/free-vector/agile-method-concept-illustration_114360-9809.jpg?uid=R123356519&ga=GA1.1.33227010.1733173234&semt=ais_hybrid
 ---
 
