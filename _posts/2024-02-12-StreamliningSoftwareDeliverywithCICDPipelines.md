@@ -1,6 +1,7 @@
 ---
 title: Mastering CI/CD Pipelines, The Key to Rapid Software Delivery
 date: 2024-02-12
+layout: post
 image: https://img.freepik.com/free-vector/agile-method-concept-illustration_114360-9809.jpg?uid=R123356519&ga=GA1.1.33227010.1733173234&semt=ais_hybrid
 ---
 
@@ -109,7 +110,7 @@ If you already have a CI/CD pipeline, here are key strategies to improve its per
 
 ## How to Choose a CI/CD Platform
 
-Selecting the right CI/CD platform involves evaluating your team’s needs and the platform’s features. Here are key considerations:
+Selecting the right CI/CD platform involves evaluating your team’s needs and the platform's features. Here are key considerations:
 
 ### 1. Cloud-Based vs. Self-Hosted Options
 - **Cloud-based:** Easy to set up and maintain, with infrastructure managed externally. Examples: GitHub Actions, CircleCI.
